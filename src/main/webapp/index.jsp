@@ -1,8 +1,8 @@
 <html>
 <body>
 <h2>Hello World!
-
-<body bgcolor="#800080">
+It is a brand new world. What goes around comes back around.
+<body bgcolor="#ffffff">
 
 </h2>
 </body>
